@@ -23,6 +23,9 @@
 - [Best Plumber Co Severance for Your Home](https://local-business-guides.github.io/walter-and-sons-plumbing-severance/best-plumber-co-severance/): Best Plumber Co Severance, get practical help planning a home plumbing visit in Severance, Colorado. Call Walter & Sons Plumbing to discuss your needs.
 - [Top Rated Plumber Co Severance: A Customer Guide](https://local-business-guides.github.io/walter-and-sons-plumbing-severance/top-rated-plumber-co-severance/): Top Rated Plumber Co Severance, get a clear plan for plumbing help in Severance, Colorado. Call Walter & Sons Plumbing to discuss what you need.
 
+## Newsroom
+- [Walter & Sons Plumbing Shares Severance Plumbing Guide and Audio Content](https://local-business-guides.github.io/walter-and-sons-plumbing-severance/news/2026-11-10-walter-sons-plumbing-shares-severance-plumbing/): Walter & Sons Plumbing has published a guide on Plumber In Severance CO, with related video, podcast and audio versions. (2026-11-10)
+
 ## Pages
 - [Plumber in Severance, Colorado](https://local-business-guides.github.io/walter-and-sons-plumbing-severance/): Get plumbing help from Walter & Sons Plumbing at our Severance location, with a clear way to reach us any time of day. Call +1970-387-7748.
 - [About Walter & Sons Plumbing](https://local-business-guides.github.io/walter-and-sons-plumbing-severance/about/): About Walter & Sons Plumbing, Severance.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/walter-and-sons-plumbing-severance/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/walter-and-sons-plumbing-severance/news/rss.xml)
 - [Main resource site](https://walter-sons-plumbing-severance.localbusinesses1.chatgpt.site)

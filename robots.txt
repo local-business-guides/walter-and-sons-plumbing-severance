@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/walter-and-sons-plumbing-severance/sitemap.xml
+Sitemap: https://local-business-guides.github.io/walter-and-sons-plumbing-severance/news-sitemap.xml
